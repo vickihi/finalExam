@@ -1,0 +1,9 @@
+com\johnabbott\finalexam\controller\UserController.class
+com\johnabbott\finalexam\service\UserServiceImpl.class
+com\johnabbott\finalexam\configuration\WebMvcConfig.class
+com\johnabbott\finalexam\service\UserService.class
+com\johnabbott\finalexam\model\UserEntity.class
+com\johnabbott\finalexam\configuration\WebAppInitializer.class
+com\johnabbott\finalexam\dao\HibernateUserDaoImpl.class
+com\johnabbott\finalexam\dao\UserDao.class
+com\johnabbott\finalexam\configuration\DatabaseConfiguration.class
